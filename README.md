@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=Npm&logoColor=white"/>
 </p>
 
-<h2>Databases and cloud hosting </h2>
+<h2>Databases and Cloud hosting </h2>
 <p>
 <img src="https://img.shields.io/badge/MySQL-64BAFF?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
