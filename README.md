@@ -44,9 +44,9 @@
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-E8E8E8.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-AA344D.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=Android-Studios&logoColor=white" />
+<img src="https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=Android%20Studios&logoColor=white" />
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </p>
 
