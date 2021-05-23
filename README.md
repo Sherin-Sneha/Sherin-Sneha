@@ -72,7 +72,7 @@
 <br>
 <h1>🔥 Streak Stats</h1>
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Sherin-Sneha&theme=omni&background=0D1117&border=9C598C&stroke=9C598C&currStreakNum=F0C1FF&currStreakLabel=9642A0&dates=F58BF2&sideLabels=E5B9F5">
   </a>
   <a href="https://git.io/streak-stats">
