@@ -70,6 +70,7 @@
 
 <br>
 <br>
+<h1>🔥 Streak Stats</h1>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
@@ -77,6 +78,9 @@
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Sherin-Sneha&theme=blux&&background=0d1117&border=444" height="165">
   </a>
+ </p> 
+ <h1>📈 Contributions</h1>
+ <p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Sherin-Sneha&bg_color=0d1117&color=018596&line=28ecfa&point=ffffff&area=true&border=444" height="330">
   </a>
