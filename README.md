@@ -86,6 +86,15 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Sherin-Sneha&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&border=444" height="330">
   </a>
 </p>
+<br>
 
+<h1 align="center">Connect with me </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherin-sneha-j"><img alt="LinekedIn"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/SherinSnehaJ"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send?phone=9150522345"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/shesha125"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:sherinsnehaj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
