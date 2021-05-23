@@ -53,6 +53,15 @@
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 </p>
 
+<h2>Design Tools🖌</h2>
+<p>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Filmora-%31A8FF.svg?&style=for-the-badge&logo=Wondershare%20Filmora&logoColor=white" />
+<img src="https://img.shields.io/badge/Pint3D-%2983ACF.svg?&style=for-the-badge&logo=Paint3D&logoColor=white" />
+</p>
 
 
 
