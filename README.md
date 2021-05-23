@@ -88,7 +88,7 @@
 </p>
 <br>
 
-<h1 align="center">Connect with me </h1>
+<h1 align="center">Connect with me 🔗</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/sherin-sneha-j" target="_blank"><img alt="LinekedIn"src="https://img.shields.io/badge/LinkedIn-9d5a8d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/SherinSnehaJ" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-c57aa3?style=for-the-badge&logo=twitter&logoColor=white" /></a>
