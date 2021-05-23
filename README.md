@@ -94,7 +94,7 @@
   <a href="https://twitter.com/SherinSnehaJ" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-c57aa3?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=9150522345"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-e09bb7?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:sherinsnehaj@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-F2BDD9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/shesha125" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-F5CDE2?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/shesha125" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-F8CED0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 
