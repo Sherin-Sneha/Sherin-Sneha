@@ -69,7 +69,7 @@
 <h1 align="center">Streak Stats 🔥</h1>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=ff79c6&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=ff79c6&icon_color=E5B9F5FF&bg_color=0d1117&text_color=9C598CFF&border_color=F58BF2FF" height="195">
   </a>
  </p>
 <p align="right">
