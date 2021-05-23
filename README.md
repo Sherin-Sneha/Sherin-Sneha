@@ -27,5 +27,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://camo.githubusercontent.com/05c25d982820997fc1697b9a56be2ccd42090c1f216951c01374c06b3b162e8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666c61742d737175617265266c6f676f3d61726475696e6f266c6f676f436f6c6f723d7768697465" />
 </p>
