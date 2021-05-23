@@ -69,12 +69,12 @@
 <h1 align="center">Streak Stats 🔥</h1>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&title_color=ff79c6&icon_color=E5B9F5FF&bg_color=0d1117&text_color=9C598CFF&border_color=9C598C" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=ff79c6&icon_color=E5B9F5FF&bg_color=0d1117&text_color=9C598CFF&border_color=9C598C" height="195">
   </a>
  </p>
 <p align="right">
   <a href="https://git.io/streak-stats">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=&theme=omni&background=0D1117&border=9C598C&stroke=9C598C&currStreakNum=F0C1FF&currStreakLabel=9642A0&dates=F58BF2&sideLabels=E5B9F5">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=Sherin-Sneha&theme=omni&background=0D1117&border=9C598C&stroke=9C598C&currStreakNum=F0C1FF&currStreakLabel=9642A0&dates=F58BF2&sideLabels=E5B9F5">
   </a>
 </p> 
 <br>
@@ -83,7 +83,7 @@
  <h1 align="center">Contributions 📈</h1>
  <p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&border=444" height="330">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sherin-Sneha&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&border=444" height="330">
   </a>
 </p>
 
