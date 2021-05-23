@@ -59,8 +59,8 @@
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Filmora-%31A8FF.svg?&style=for-the-badge&logo=Wondershare%20Filmora&logoColor=white" />
-<img src="https://img.shields.io/badge/Pint3D-%2983ACF.svg?&style=for-the-badge&logo=Paint3D&logoColor=white" />
+<img src="https://img.shields.io/badge/Filmora-%0081A5.svg?&style=for-the-badge&logo=Wondershare%20Filmora&logoColor=white" />
+<img src="https://img.shields.io/badge/Paint3D-%2983ACF.svg?&style=for-the-badge&logo=Paint3D&logoColor=white" />
 </p>
 
 
@@ -68,7 +68,8 @@
 
 
 
-
+<br>
+<br>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=018596&icon_color=00E1F7FF&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
