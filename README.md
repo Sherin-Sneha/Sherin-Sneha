@@ -2,7 +2,8 @@
 <a href="https://git.io/typing-svg">
   <img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=%238F3E96FC&size=40&vCenter=true&width=550&height=82&lines=Budding+Developer+%2C+Designer;Welcome+to+my+profile+!!" />
 </a>
-  
+
+<br>
 <h1>🛠️My Skills & Tools</h1>
 <br>
 <h2>Programming Languages👩‍💻</h2>
