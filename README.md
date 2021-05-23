@@ -4,8 +4,9 @@
 </a>
 
 <br>
-<h1>🛠️My Skills & Tools</h1>
 <br>
+<h1>🛠️My Skills & Tools</h1>
+
 <h2>Programming Languages👩‍💻</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
