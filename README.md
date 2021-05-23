@@ -3,7 +3,7 @@
   <img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=%238F3E96FC&size=40&vCenter=true&width=550&height=82&lines=Budding+Developer+%2C+Designer;Welcome+to+my+profile+!!" />
 </a>
   
-##*🛠️My Skills & Tools
+##*🛠️My Skills & Tools*
 <h2>Programming Languages👩‍💻</h2>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
