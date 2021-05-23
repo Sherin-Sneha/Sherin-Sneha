@@ -87,5 +87,12 @@
 </p>
 
 
+<br>
+<br>
+<a href="https://github.com/Sherin-Sneha/github-stats">
 
+![](https://raw.githubusercontent.com/Sherin-Sneha/github-stats/master/generated/overview.svg)
+![](https://github.com/Sherin-Sneha/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
