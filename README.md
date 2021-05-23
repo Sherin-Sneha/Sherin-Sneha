@@ -1,6 +1,6 @@
 <img src = "https://github.com/Sherin-Sneha/Sherin-Sneha/blob/main/Header.png" />
 <a href="https://git.io/typing-svg">
-  <img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=%238F3E96FC&size=40&vCenter=true&width=550&height=82&lines=Budding+Developer+%2C+Designer;Welcome+to+my+profile+!!" />
+  <img src ="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=FF79C6&size=40&width=550&height=60&lines=Budding+Developer%2C+Designer;Weclome+to+my+profile+!!" />
 </a>
 
 <br>
@@ -69,7 +69,7 @@
 <h1 align="center">Streak Stats 🔥</h1>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=ff79c6&icon_color=E5B9F5FF&bg_color=0d1117&text_color=9C598CFF&border_color=F58BF2FF" height="195">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sherin-Sneha&show_icons=true&title_color=ff79c6&icon_color=E5B9F5FF&bg_color=0d1117&text_color=9C598CFF&border_color=9C598C" height="195">
   </a>
  </p>
 <p align="right">
@@ -83,7 +83,7 @@
  <h1 align="center">Contributions 📈</h1>
  <p>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sherin-Sneha&bg_color=0d1117&color=018596&line=28ecfa&point=ffffff&area=true&border=444" height="330">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sherin-Sneha&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&border=444" height="330">
   </a>
 </p>
 
