@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/MySQL-64BAFF?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-FF4F64?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF4F64?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=whi
 </p>
