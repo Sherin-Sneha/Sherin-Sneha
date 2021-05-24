@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-757575?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 <h2>Frameworks🧰</h2>
@@ -94,7 +95,7 @@
   <a href="https://twitter.com/SherinSnehaJ" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-c57aa3?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=9150522345"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-e09bb7?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:sherinsnehaj@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-F2BDD9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/shesha125" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-F8CED0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/shesha125" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-f8ced0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 
